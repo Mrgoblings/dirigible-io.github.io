@@ -30,7 +30,7 @@ Client is used by scripting services to call external services via HTTP.
     response.close();
     ```
 
-=== "Require"
+=== "CommonJS"
 
     ```javascript
     const httpClient = require("http/client");
